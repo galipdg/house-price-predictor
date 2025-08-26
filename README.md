@@ -1,6 +1,6 @@
 # Turkey House Price Predictor
 
-A machine learning project to predict house prices in Turkey using an open-source Kaggle dataset.
+A machine learning project to predict house prices in Turkey using an open-source [Kaggle dataset](https://www.kaggle.com/datasets/cabbar14ylnce/trkiye-home-price-data).
 
 ## Overview
 - Performed **exploratory data analysis (EDA)** to understand key patterns and relationships in the dataset.  
